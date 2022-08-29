@@ -1,4 +1,4 @@
-# India-s-Air-quality-Visualization
+# India's-Air-quality-Visualization
 Visualizing air quality of  Indian cities on map.
 
 ## Library Used
